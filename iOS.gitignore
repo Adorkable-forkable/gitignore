@@ -1,5 +1,7 @@
+# OSX
 .DS_Store
 
+# rbenv
 .ruby-version
 
 # Xcode
@@ -29,3 +31,13 @@ Pods/
 #
 Carthage/Checkouts
 Carthage/Build
+
+# Documentation
+#
+docs
+
+# swiftenv
+.swift-version
+
+# Swift Package Manager
+.build
